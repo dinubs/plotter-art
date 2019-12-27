@@ -19,4 +19,4 @@ The first argument passed in is the image, and the second is the total number of
 $ python3 polarizer.py zebra.jpg 10
 ```
 
-![Converted image using the Polarizer script](https://github.com/dinubs/plotter-art/raw/master/src/sample.png)
+![Converted image using the Polarizer script](https://github.com/dinubs/plotter-art/raw/master/sample.png)
